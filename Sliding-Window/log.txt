@@ -1,0 +1,211 @@
+a {'a': 1}
+aa {'a': 2}
+updating 1 {'a': 2}
+2 1 c aac
+acb {'a': 1, 'c': 1, 'b': 1}
+acbb {'a': 1, 'c': 1, 'b': 2}
+bb {'a': 0, 'c': 0, 'b': 2}
+updating 1 {'a': 0, 'c': 0, 'b': 2}
+2 1 d bbd
+bdc {'a': 0, 'c': 1, 'b': 1, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+acbbb {'a': 1, 'c': 1, 'b': 3}
+acbbbd {'a': 1, 'c': 1, 'b': 3, 'd': 1}
+acbbbdc {'a': 1, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+a {'a': 1}
+aa {'a': 2}
+aac {'a': 2, 'c': 1}
+aacb {'a': 2, 'c': 1, 'b': 1}
+aacbb {'a': 2, 'c': 1, 'b': 2}
+aacbbb {'a': 2, 'c': 1, 'b': 3}
+aacbbbd {'a': 2, 'c': 1, 'b': 3, 'd': 1}
+aacbbbdc {'a': 2, 'c': 2, 'b': 3, 'd': 1}
+2

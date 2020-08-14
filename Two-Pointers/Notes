@@ -1,0 +1,54 @@
+Opposite direction - 
+
+Two Sum
+Valid Palindrome
+Move zeroes
+Reverse string
+Remove Element
+
+
+Same direction -
+
+Middle node of a linked list
+Linked List cycle
+Longest substring without repeating characters
+
+
+Two sum problem - Already sorted:
+
+arr, target
+
+
+start_pointer = 0
+end_pointer = len(arr) - 1
+
+
+while start_pointer < end_pointer:
+	sum = arr[start_pointer] + arr[end_pointer]
+	if sum > target:
+		end_pointer -= 1
+	elif sum < target:
+		start_pointer += 1
+	else:
+		return (start_pointer, end_pointer)
+	
+
+Given array of n elements find maximum sum of a contigous array of size k
+
+Unidirectional pointers
+
+if len(arr) < k:
+	return 0
+
+start_pointer = 0
+end_pointer = k
+sum = sum(arr[:k])
+maximum = sum
+while end_pointer < len(arr):
+	sum -= arr[start_pointer]
+	sum += arr[end_pointer]
+	maximum = max(sum, maximum)
+	start_pointer += 1
+	end_pointer += 1
+
+return maximum

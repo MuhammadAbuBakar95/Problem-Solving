@@ -1,0 +1,3000 @@
+0 5
+0 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+Traceback (most recent call last):
+  File "binarysearch.py", line 28, in <module>
+    print sol.search(arr, target)
+  File "binarysearch.py", line 22, in search
+    return self.searchIdx(nums, target, 0, len(nums) - 1)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 13, in searchIdx
+    return self.searchIdx(nums, target, mid + 1, end)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+  File "binarysearch.py", line 11, in searchIdx
+    return self.searchIdx(nums, target, start, mid)
+RuntimeError: maximum recursion depth exceeded
